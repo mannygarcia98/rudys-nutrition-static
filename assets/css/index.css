@@ -1,5 +1,5 @@
 html {
   @media (min-height: 32em) {
-    scroll-padding-top: 16em; // 1
+    scroll-padding-top: 13em; // 1
   }
 }
